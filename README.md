@@ -1,7 +1,7 @@
 # Christopher Hahne
 ### [[Homepage](http://christopherhahne.de/)] [[Google Scholar](https://scholar.google.com/citations?user=sGYbToAAAAAJ&hl=en&oi=ao)]
 
-### I'm a computer vision engineer and scientist by heart. My research interests include audio-visual processing and particularly computational photography, depth inference, light fields and ultrasonic imaging.<br><br>
+### I'm a computer vision scientist. My research interests include audio-visual processing and particularly computational photography, depth inference, light fields and ultrasonic imaging.<br><br>
 
 ## My Selected Publications
 
