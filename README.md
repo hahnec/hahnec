@@ -20,14 +20,14 @@
 
 ## My Selected Publications
 
-- [PlenoptiCam v1.0: A light-field imaging framework, 2021](https://arxiv.org/pdf/2010.11687.pdf)
+- [PlenoptiCam v1.0: A light-field imaging framework, IEEE Trans. on Image Proc. 2018](https://arxiv.org/pdf/2010.11687.pdf)
 
-- [Plenoptisign: an optical design tool for plenoptic imaging, 2019](https://reader.elsevier.com/reader/sd/pii/S2352711019300159?token=327897D1445CAE321757274F0D91715C7BEE5045224FCC1D3F646E3A04FBFBBF4A341D5510495F4E036700E72B984320)
+- [Plenoptisign: an optical design tool for plenoptic imaging, SoftwareX 2019](https://reader.elsevier.com/reader/sd/pii/S2352711019300159?token=327897D1445CAE321757274F0D91715C7BEE5045224FCC1D3F646E3A04FBFBBF4A341D5510495F4E036700E72B984320)
 
-- [Baseline and triangulation geometry in a standard plenoptic camera, IJCV 2018](https://link.springer.com/content/pdf/10.1007%2Fs11263-017-1036-4.pdf)
+- [Baseline and triangulation geometry in a standard plenoptic camera, Int. J. Comp. Vis. 2018](https://link.springer.com/content/pdf/10.1007%2Fs11263-017-1036-4.pdf)
 
-- [Real-Time Refocusing using an FPGA-based Standard Plenoptic Camera, Trans. on Industrial Electronics 2018](https://arxiv.org/pdf/2010.07746.pdf)
+- [Real-Time Refocusing using an FPGA-based Standard Plenoptic Camera, IEEE Trans. on Industrial Electronics 2018](https://arxiv.org/pdf/2010.07746.pdf)
 
-- [Refocusing distance of a standard plenoptic camera, OpEx 2016](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-24-19-21521&id=349880)
+- [Refocusing distance of a standard plenoptic camera, Optics Express, 2016](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-24-19-21521&id=349880)
 
-- [Light field geometry of a standard plenoptic camera, OpEx 2014](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-22-22-26659&id=303271)
+- [Light field geometry of a standard plenoptic camera, Optics Express, 2014](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-22-22-26659&id=303271)
