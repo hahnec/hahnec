@@ -3,6 +3,11 @@
 
 ### I'm a computer vision scientist. My research interests include audio-visual processing and particularly computational photography, depth inference, light fields and ultrasonic imaging.<br><br>
 
+## Stats
+
+![](https://github-readme-stats.vercel.app/api?username=hahnec&show_icons=true&hide=contribs,issues&cache_seconds=86400&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hahnec&theme=default)
+
 ## My Repos
       
 <a href="https://github.com/hahnec/plenopticam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hahnec&repo=plenopticam&cache_seconds=10&theme=buefy" alt="" /></a>
@@ -13,10 +18,6 @@
 <a href="https://github.com/hahnec/color-matcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hahnec&repo=color-matcher&cache_seconds=10&theme=buefy" alt="" /></a>
 
 <a href="https://github.com/hahnec/depthy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hahnec&repo=depthy&cache_seconds=10&theme=buefy" alt="" /></a>
-
-
-![](https://github-readme-stats.vercel.app/api?username=hahnec&show_icons=true&hide=contribs,issues&cache_seconds=86400&theme=default)
-
 
 ## My Selected Publications
 
