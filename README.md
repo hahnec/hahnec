@@ -22,7 +22,7 @@
 
 ## My Selected Publications
 
-- [PlenoptiCam v1.0: A light-field imaging framework, IEEE Trans. on Image Proc., 2018](https://arxiv.org/pdf/2010.11687.pdf)
+- [PlenoptiCam v1.0: A light-field imaging framework, IEEE Trans. on Image Proc., 2021](https://arxiv.org/pdf/2010.11687.pdf)
 
 - [Plenoptisign: an optical design tool for plenoptic imaging, SoftwareX, 2019](https://reader.elsevier.com/reader/sd/pii/S2352711019300159?token=327897D1445CAE321757274F0D91715C7BEE5045224FCC1D3F646E3A04FBFBBF4A341D5510495F4E036700E72B984320)
 
