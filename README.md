@@ -3,6 +3,8 @@
 
 ### I'm a computer vision scientist. My research interests include audio-visual processing and particularly computational photography, depth inference, light fields and ultrasonic imaging.<br><br>
 
+<!---
+
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=hahnec&show_icons=true&hide=contribs,issues&cache_seconds=86400&theme=default)
@@ -33,3 +35,5 @@
 - [Refocusing distance of a standard plenoptic camera, Optics Express, 2016](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-24-19-21521&id=349880)
 
 - [Light field geometry of a standard plenoptic camera, Optics Express, 2014](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-22-22-26659&id=303271)
+
+--->
