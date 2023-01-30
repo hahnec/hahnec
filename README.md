@@ -3,6 +3,8 @@
 
 ### I'm a computer vision scientist. My research interests include audio-visual processing and particularly computational photography, depth inference, light fields and ultrasonic imaging.<br><br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hahnec&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!---
 
 ## Stats
