@@ -3,6 +3,16 @@
 
 ### I'm a computer vision scientist. My research interests include audio-visual processing and particularly computational photography, depth inference, light fields and ultrasonic imaging.<br><br>
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hahnec&show_icons=true&hide_title=true&hide_border=true">
+</a>
+
+<!--
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahnec&langs_count=4&hide=jupyter%20notebook,javascript,html,css,scss,assembly&theme=graywhite&layout=compact&custom_title=Languages&card_width=260">
+</a>
+-->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hahnec&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
