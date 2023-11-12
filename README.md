@@ -1,4 +1,4 @@
-# About me
+# About
 ### [<a href="http://www.christopherhahne.de/" target="_blank">Homepage</a>] [<a href="https://scholar.google.com/citations?user=sGYbToAAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>]
 
 ### I'm a computer vision scientist with interests in audio-visual processing, particularly computational photography, depth inference, light fields, and ultrasonic imaging.<br><br>
