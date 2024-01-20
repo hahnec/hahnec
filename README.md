@@ -1,7 +1,7 @@
 # About
 ### [<a href="http://www.christopherhahne.de/" target="_blank">Homepage</a>] [<a href="https://scholar.google.com/citations?user=sGYbToAAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>]
 
-### I'm a computer vision scientist with interests in audio-visual processing, particularly depth inference, light fields, and ultrasonic imaging.<br><br>
+### I'm a computer vision scientist with interests in audio-visual processing, particularly depth inference, ultrasonic imaging, light fields, and computational photography.<br><br>
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hahnec&show_icons=true&hide_title=true&hide_border=true">
