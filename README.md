@@ -1,5 +1,5 @@
 # About
-### [<a href="http://www.christopherhahne.de/" target="_blank">Homepage</a>] [<a href="https://scholar.google.com/citations?user=sGYbToAAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>]
+### [<a href="https://www.hahne.website/" target="_blank">Homepage</a>] [<a href="https://scholar.google.com/citations?user=sGYbToAAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>]
 
 ### I'm a computer vision scientist with interests in audio-visual processing, particularly depth inference, ultrasonic imaging, light fields, and computational photography.<br><br>
 
@@ -49,3 +49,5 @@
 - [Light field geometry of a standard plenoptic camera, Optics Express, 2014](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-22-22-26659&id=303271)
 
 --->
+
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hahnec">
