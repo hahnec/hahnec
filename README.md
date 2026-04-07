@@ -49,5 +49,6 @@
 - [Light field geometry of a standard plenoptic camera, Optics Express, 2014](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-22-22-26659&id=303271)
 
 --->
-
+<a href="https://github.com/hahnec?tab=repositories">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hahnec">
+</a>
